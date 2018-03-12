@@ -1,0 +1,852 @@
+{
+  "data": [
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520601473,
+      "casino": {
+        "name": "LeoVegas",
+        "slug": "leovegas",
+        "tagline": "Welcome to the Fabulous LeoVegas!",
+        "url": "http://ads.leovegas.com/redirect.aspx?pid=3126153&bid=3448",
+        "permalink": "https://casino.eu/casinos/leovegas",
+        "redirect_url": "https://portal.casino.eu/casinos/leovegas/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/leovegas/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/leovegas/login",
+        "recent_updates_count": 4,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/294/leo-vegas-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/294/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/294/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/294/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/294/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1324/leovegas-bg.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1324/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1324/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/232/leo-vegas.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 288,
+        "content": "Join LeoVegas Football Club: Free Bets & Bonuses!",
+        "url": "http://ads.leovegas.com/redirect.aspx?pid=3126153&bid=3448",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/288/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1360/2493dc815d963e3a230566d38bd53c518d170a48ef2a8a4891pimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1360/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1360/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Sports",
+          "slug": "sports"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520601071,
+      "casino": {
+        "name": "Poker Stars",
+        "slug": "poker-stars",
+        "tagline": "The world’s largest online poker site.",
+        "url": "https://www.pokerstarscasino.eu/?source=13154935",
+        "permalink": "https://casino.eu/casinos/poker-stars",
+        "redirect_url": "https://portal.casino.eu/casinos/poker-stars/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/poker-stars/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/poker-stars/login",
+        "recent_updates_count": 3,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/293/poker-stars-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/293/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/293/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/293/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/293/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1325/pokerstarsss.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1325/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1325/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/223/poker-stars.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 287,
+        "content": "100% deposit bonus up to $200 for new players!",
+        "url": "https://www.pokerstarscasino.eu/?source=13154935",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/287/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1359/c5ddfd01626e2fc74a1ab43ad46202b1970772b4260ebb9f6fpimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1359/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1359/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Blackjack",
+          "slug": "blackjack"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520600875,
+      "casino": {
+        "name": "Casumo",
+        "slug": "casumo",
+        "tagline": "Loads of sweet casino games!",
+        "url": "http://ads.casumoaffiliates.com/redirect.aspx?pid=740097&bid=1546",
+        "permalink": "https://casino.eu/casinos/casumo",
+        "redirect_url": "https://portal.casino.eu/casinos/casumo/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/casumo/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/casumo/login",
+        "recent_updates_count": 1,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/290/casumo-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/290/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/290/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/290/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/290/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/264/casumo3.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/264/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/264/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/218/casumo.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 286,
+        "content": "Try our newest table game: Roulette Nouveau!",
+        "url": "http://ads.casumoaffiliates.com/redirect.aspx?pid=740097&bid=1546",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/286/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1358/4bc8c2a98191f7384984c814f231852233e6ae970afbf27569pimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1358/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1358/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Roulette",
+          "slug": "roulette"
+        }
+      }
+    },
+    {
+      "type": "article",
+      "created_at_timestamp": 1520511479,
+      "casino": {
+        "name": "Mr Green",
+        "slug": "mr-green",
+        "tagline": "The Award Winning Online Casino.",
+        "url": "https://ads.mrgreen.com/redirect.aspx?pid=4331898&bid=8443",
+        "permalink": "https://casino.eu/casinos/mr-green",
+        "redirect_url": "https://portal.casino.eu/casinos/mr-green/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/mr-green/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/mr-green/login",
+        "recent_updates_count": 4,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/287/mr-green-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/287/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/287/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/287/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/287/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/261/mrgreenpc.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/261/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/261/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/222/mr-green.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 149,
+        "title": "Crack the Code and Win 1 Kilo of Gold!",
+        "content": "**Gain access to Mr Green’s Treasure Vault**\r\n\r\nThis could be the biggest score of your life – 1KG OF PURE GOLD! Crack the code of Mr Green’s Treasure Vault and you could be the new owner of a 1kg Gold Bullion. Imprinted with a unique serial number, the gold bar will be delivered to your doorstep with an authenticity certificate. The heist doesn’t end here - 4 more players will end up with €500!\r\n\r\n**How to Crack the Code**\r\n\r\nPlay 100 rounds across any of the games in the ‘Heist’ game collection: Golden Colts, Gold King, Viking Runecraft and Fire Joker, to crack the code to Mr Green’s Treasure Vault Draw. You can collect up to 100 codes per day to increase your winning chances for the ‘Treasure Vault’ draw at the end of the promotion. Be sure to tune in for the LIVE Draw on March 26th at 19:00 CET on Mr Green’s Exclusive Blackjack Table 3 when we will announce the lucky Gold Bar & Cash winners.\r\n\r\n*Promotional Dates: 26th of February – 22nd of March*",
+        "url": null,
+        "url_text": null,
+        "slug": "crack-the-code-and-win-1-kilo-of-gold",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "permalink": "https://casino.eu/casinos/mr-green/news/crack-the-code-and-win-1-kilo-of-gold",
+        "formatted_content": "<p><strong>Gain access to Mr Green’s Treasure Vault</strong></p>\n<p>This could be the biggest score of your life – 1KG OF PURE GOLD! Crack the code of Mr Green’s Treasure Vault and you could be the new owner of a 1kg Gold Bullion. Imprinted with a unique serial number, the gold bar will be delivered to your doorstep with an authenticity certificate. The heist doesn’t end here - 4 more players will end up with €500!</p>\n<p><strong>How to Crack the Code</strong></p>\n<p>Play 100 rounds across any of the games in the ‘Heist’ game collection: Golden Colts, Gold King, Viking Runecraft and Fire Joker, to crack the code to Mr Green’s Treasure Vault Draw. You can collect up to 100 codes per day to increase your winning chances for the ‘Treasure Vault’ draw at the end of the promotion. Be sure to tune in for the LIVE Draw on March 26th at 19:00 CET on Mr Green’s Exclusive Blackjack Table 3 when we will announce the lucky Gold Bar &amp; Cash winners.</p>\n<p><em>Promotional Dates: 26th of February – 22nd of March</em></p>",
+        "gallery": [],
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1357/8a8ffad480047a881fd68700c500a3ae6f1baa5b5e55334b1fpimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1357/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1357/conversions/optimized.jpg",
+            "featured": "https://dy3kvj4xyi95q.cloudfront.net/media/1357/conversions/featured.jpg"
+          }
+        },
+        "gameTypes": {
+          "data": [
+            {
+              "name": "Slots",
+              "slug": "slots"
+            },
+            {
+              "name": "Videoslots",
+              "slug": "videoslots"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520510758,
+      "casino": {
+        "name": "Royal Panda",
+        "slug": "royal-panda",
+        "tagline": "Have a royal good time!",
+        "url": "https://tracking.royalpanda.com/redirect.aspx?pid=10458&bid=1999",
+        "permalink": "https://casino.eu/casinos/royal-panda",
+        "redirect_url": "https://portal.casino.eu/casinos/royal-panda/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/royal-panda/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/royal-panda/login",
+        "recent_updates_count": 7,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/291/royal-panda-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/262/rpwinning.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/262/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/262/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/215/royal-panda.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 285,
+        "content": "Celebrate our 4th Birthday with €5K Tournament!",
+        "url": "https://tracking.royalpanda.com/redirect.aspx?pid=2466&bid=1999",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/285/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1356/33d79cf99a4c7594fa52abe7e366e10c4941ca4386da86f799pimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1356/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1356/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Videoslots",
+          "slug": "videoslots"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520510419,
+      "casino": {
+        "name": "Mr Green",
+        "slug": "mr-green",
+        "tagline": "The Award Winning Online Casino.",
+        "url": "https://ads.mrgreen.com/redirect.aspx?pid=4331898&bid=8443",
+        "permalink": "https://casino.eu/casinos/mr-green",
+        "redirect_url": "https://portal.casino.eu/casinos/mr-green/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/mr-green/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/mr-green/login",
+        "recent_updates_count": 4,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/287/mr-green-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/287/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/287/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/287/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/287/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/261/mrgreenpc.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/261/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/261/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/222/mr-green.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 284,
+        "content": "Live Roulette: Get up to 300 Free Spins Daily!",
+        "url": "http://ads.mrgreen.com/redirect.aspx?pid=2309&bid=3098",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/284/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1355/6e2011428a368143618a520c816cdec55d13080163e770899apimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1355/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1355/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Roulette",
+          "slug": "roulette"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520510088,
+      "casino": {
+        "name": "Unibet",
+        "slug": "unibet",
+        "tagline": "By Players, For Players",
+        "url": "https://dspk.kindredplc.com/redirect.aspx?pid=3746674&bid=13714",
+        "permalink": "https://casino.eu/casinos/unibet",
+        "redirect_url": "https://portal.casino.eu/casinos/unibet/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/unibet/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/unibet/login",
+        "recent_updates_count": 4,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/94/Unibet.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/94/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/94/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/94/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/94/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1313/unibet-bg.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1313/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1313/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/229/unibet.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 283,
+        "content": "Women's Day: Double Your Blackjack Winnings!",
+        "url": "http://adserving.unibet.com/redirect.aspx?pid=3746674&bid=13714",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/283/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1354/68ea1b31e25d48a47023a37782edca3a0000acb0b871d48cd6pimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1354/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1354/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Blackjack",
+          "slug": "blackjack"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520345564,
+      "casino": {
+        "name": "Guts",
+        "slug": "guts",
+        "tagline": "All it takes is a little guts!",
+        "url": "http://wlguts.adsrv.eacdn.com/C.ashx?btag=a_9827b_1627c_&affid=2955&siteid=9827&adid=1627&c=",
+        "permalink": "https://casino.eu/casinos/guts",
+        "redirect_url": "https://portal.casino.eu/casinos/guts/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/guts/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/guts/login",
+        "recent_updates_count": 3,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/288/guts-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/288/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/288/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/288/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/288/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1352/gutshorizontal.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1352/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1352/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/228/guts.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 282,
+        "content": "It's Gonzo's 8th Birthday! Win a Share of €20,000!",
+        "url": "http://wlguts.adsrv.eacdn.com/C.ashx?btag=a_9827b_1627c_&affid=2955&siteid=9827&adid=1627&c=",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/282/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1347/14d6088e30a9d7ce11879fe92832ed3672700e9acb2c65b574pimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1347/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1347/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Videoslots",
+          "slug": "videoslots"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520344757,
+      "casino": {
+        "name": "Full Tilt",
+        "slug": "full-tilt",
+        "tagline": "Crafted by players for players.",
+        "url": "http://www.fulltilt.com?source=13198130",
+        "permalink": "https://casino.eu/casinos/full-tilt",
+        "redirect_url": "https://portal.casino.eu/casinos/full-tilt/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/full-tilt/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/full-tilt/login",
+        "recent_updates_count": 2,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/295/full-tilt-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/295/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/295/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/295/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/295/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/310/poker.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/310/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/310/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/219/full-tilt.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 281,
+        "content": "Poker First Deposit Bonus: 100% up to $600!",
+        "url": "http://www.fulltilt.com?source=13198130",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/281/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1346/d29824f4c08538b303512e9cf28ed53a28f3e921bed34f5058pimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1346/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1346/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Poker",
+          "slug": "poker"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520344301,
+      "casino": {
+        "name": "LeoVegas",
+        "slug": "leovegas",
+        "tagline": "Welcome to the Fabulous LeoVegas!",
+        "url": "http://ads.leovegas.com/redirect.aspx?pid=3126153&bid=3448",
+        "permalink": "https://casino.eu/casinos/leovegas",
+        "redirect_url": "https://portal.casino.eu/casinos/leovegas/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/leovegas/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/leovegas/login",
+        "recent_updates_count": 4,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/294/leo-vegas-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/294/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/294/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/294/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/294/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1324/leovegas-bg.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1324/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1324/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/232/leo-vegas.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 280,
+        "content": "Play Blackjack & Get 2 Sports Free Bets Every Day!",
+        "url": "http://ads.leovegas.com/redirect.aspx?pid=3126153&bid=3448",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/280/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1345/ea8367ef4d2ee5ac6e40415ce0516bd06fc7267237642cbbdepimgpsh-fullsize-distr.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1345/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1345/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Blackjack",
+          "slug": "blackjack"
+        }
+      }
+    },
+    {
+      "type": "article",
+      "created_at_timestamp": 1520339656,
+      "casino": {
+        "name": "Royal Panda",
+        "slug": "royal-panda",
+        "tagline": "Have a royal good time!",
+        "url": "https://tracking.royalpanda.com/redirect.aspx?pid=10458&bid=1999",
+        "permalink": "https://casino.eu/casinos/royal-panda",
+        "redirect_url": "https://portal.casino.eu/casinos/royal-panda/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/royal-panda/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/royal-panda/login",
+        "recent_updates_count": 7,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/291/royal-panda-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/262/rpwinning.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/262/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/262/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/215/royal-panda.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 148,
+        "title": "Fat Cat paints Royal Panda’s slots catalogue black",
+        "content": "There’s a new hustler in the hood as **Royal Panda** has launched the gangster video slot, **Fat Cat**. Benefit from the cash pick and win bonus, while there’s definitely no lack of free spins in this fun game. Spinning thee reels of this slot feels like reading a comic thanks to the cartoonish graphics. Team up with the badass head cat to obtain your share of the stash.\r\n\r\n**Benefit from the Fat Cat wild**\r\n\r\nIt is generally well-known that bonus features pave to way for tremendous cash winnings, which is also the case in the Fat Cat video slot. Keep a close eye on the Fat Cat himself as he represents the slot’s wild symbol, which replaces other symbols to improve your chances of getting winning combinations.\r\n\r\n**Multiply your stake by 500**\r\n\r\nWhen the wild symbol appears on each reel, the cash pick and win bonus starts, which invites you to match prizes to rake in dazzling bonanzas. On top of all that, this bonus game includes multipliers of up to 5x, while the maximum win equals 500 times your bet.\r\n\r\n**Get a total of 20 free spins**\r\n\r\nThe Fat Cat video slot is also equipped with a free spins mode, which requires at least 3 scatter symbols on the reels from left to right. Get your hands on 10 free games that enable you to triple your winnings, while it’s also possible to re-activate the bonus mode in order to earn an extra 10 free spins. Spin the 5 reels of the Fat Cat video slot, and hustle your way to success in Royal Panda’s online casino.\r\n",
+        "url": null,
+        "url_text": null,
+        "slug": "fat-cat-paints-royal-pandas-slots-catalogue-black",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "permalink": "https://casino.eu/casinos/royal-panda/news/fat-cat-paints-royal-pandas-slots-catalogue-black",
+        "formatted_content": "<p>There’s a new hustler in the hood as <strong>Royal Panda</strong> has launched the gangster video slot, <strong>Fat Cat</strong>. Benefit from the cash pick and win bonus, while there’s definitely no lack of free spins in this fun game. Spinning thee reels of this slot feels like reading a comic thanks to the cartoonish graphics. Team up with the badass head cat to obtain your share of the stash.</p>\n<p><strong>Benefit from the Fat Cat wild</strong></p>\n<p>It is generally well-known that bonus features pave to way for tremendous cash winnings, which is also the case in the Fat Cat video slot. Keep a close eye on the Fat Cat himself as he represents the slot’s wild symbol, which replaces other symbols to improve your chances of getting winning combinations.</p>\n<p><strong>Multiply your stake by 500</strong></p>\n<p>When the wild symbol appears on each reel, the cash pick and win bonus starts, which invites you to match prizes to rake in dazzling bonanzas. On top of all that, this bonus game includes multipliers of up to 5x, while the maximum win equals 500 times your bet.</p>\n<p><strong>Get a total of 20 free spins</strong></p>\n<p>The Fat Cat video slot is also equipped with a free spins mode, which requires at least 3 scatter symbols on the reels from left to right. Get your hands on 10 free games that enable you to triple your winnings, while it’s also possible to re-activate the bonus mode in order to earn an extra 10 free spins. Spin the 5 reels of the Fat Cat video slot, and hustle your way to success in Royal Panda’s online casino.</p>",
+        "gallery": [],
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1344/093edd549a30c1e5f0484ce1ea94c6c82238bc8926ebdbc9bepimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1344/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1344/conversions/optimized.jpg",
+            "featured": "https://dy3kvj4xyi95q.cloudfront.net/media/1344/conversions/featured.jpg"
+          }
+        },
+        "gameTypes": {
+          "data": [
+            {
+              "name": "Slots",
+              "slug": "slots"
+            },
+            {
+              "name": "Videoslots",
+              "slug": "videoslots"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520021438,
+      "casino": {
+        "name": "Vera&John",
+        "slug": "verajohn",
+        "tagline": "Try your luck with us!",
+        "url": "http://record.ppincome.net/_9_9IMVWT5wgWqcfzuvZcQGNd7ZgqdRLk/2/",
+        "permalink": "https://casino.eu/casinos/verajohn",
+        "redirect_url": "https://portal.casino.eu/casinos/verajohn/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/verajohn/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/verajohn/login",
+        "recent_updates_count": 3,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/292/vera-and-john-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/292/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/292/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/292/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/292/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1353/verajohnhorizontal.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1353/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1353/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/224/vera-john.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 279,
+        "content": "Celebrate our 7th Birthday with Big Cash Prizes! ",
+        "url": "http://record.ppincome.net/_9_9IMVWT5wgWqcfzuvZcQGNd7ZgqdRLk/2/",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/279/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1343/seven.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1343/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1343/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Videoslots",
+          "slug": "videoslots"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520008221,
+      "casino": {
+        "name": "Poker Stars",
+        "slug": "poker-stars",
+        "tagline": "The world’s largest online poker site.",
+        "url": "https://www.pokerstarscasino.eu/?source=13154935",
+        "permalink": "https://casino.eu/casinos/poker-stars",
+        "redirect_url": "https://portal.casino.eu/casinos/poker-stars/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/poker-stars/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/poker-stars/login",
+        "recent_updates_count": 3,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/293/poker-stars-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/293/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/293/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/293/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/293/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1325/pokerstarsss.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1325/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1325/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/223/poker-stars.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 278,
+        "content": "The Big Race: Race off to Marbella for just $2!",
+        "url": "https://www.pokerstarscasino.eu/?source=13154935",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/278/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1342/94c660cf0e3040ad61848065b9ba4375d8af691051f17fc4bepimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1342/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1342/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Poker",
+          "slug": "poker"
+        }
+      }
+    },
+    {
+      "type": "offer",
+      "created_at_timestamp": 1520007934,
+      "casino": {
+        "name": "Unibet",
+        "slug": "unibet",
+        "tagline": "By Players, For Players",
+        "url": "https://dspk.kindredplc.com/redirect.aspx?pid=3746674&bid=13714",
+        "permalink": "https://casino.eu/casinos/unibet",
+        "redirect_url": "https://portal.casino.eu/casinos/unibet/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/unibet/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/unibet/login",
+        "recent_updates_count": 4,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/94/Unibet.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/94/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/94/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/94/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/94/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1313/unibet-bg.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1313/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1313/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/229/unibet.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 277,
+        "content": "Win €5.000 in our Asgardian Stones event!",
+        "url": "http://adserving.unibet.com/redirect.aspx?pid=3746674&bid=13714",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "redirect_url": "https://portal.casino.eu/offers/277/visit",
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1341/6270df6d39b0567b44a91589be68f5b2a9f13bb476455b0843pimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1341/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1341/conversions/optimized.jpg"
+          }
+        },
+        "gameType": {
+          "name": "Slots",
+          "slug": "slots"
+        }
+      }
+    },
+    {
+      "type": "article",
+      "created_at_timestamp": 1520006357,
+      "casino": {
+        "name": "Royal Panda",
+        "slug": "royal-panda",
+        "tagline": "Have a royal good time!",
+        "url": "https://tracking.royalpanda.com/redirect.aspx?pid=10458&bid=1999",
+        "permalink": "https://casino.eu/casinos/royal-panda",
+        "redirect_url": "https://portal.casino.eu/casinos/royal-panda/visit",
+        "sign_up_redirect_url": "https://portal.casino.eu/casinos/royal-panda/signup",
+        "login_redirect_url": "https://portal.casino.eu/casinos/royal-panda/login",
+        "recent_updates_count": 7,
+        "images": {
+          "logo": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/291/royal-panda-logo.png",
+            "tiny": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/tiny.png",
+            "small": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/small.png",
+            "medium": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/medium.png",
+            "large": "https://dy3kvj4xyi95q.cloudfront.net/media/291/conversions/large.png"
+          },
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/262/rpwinning.jpg",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/262/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/262/conversions/optimized.jpg"
+          },
+          "building": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/215/royal-panda.jpg"
+          }
+        }
+      },
+      "story": {
+        "id": 147,
+        "title": "Find lush pot of gold in our Rainbow Wilds slot!",
+        "content": "Time to enjoy some Irish fortune in the free spins-packed slot, **Rainbow Wilds**. **Royal Panda** invites you to collect stunning treasures thanks to 1,024 ways to win, and free spins with multipliers. Brace yourself for an enchanted trip to the end of the rainbow, and enjoy vibrant graphics, cascading symbols, plus three different wilds.\r\n\r\n**Sticky and expanding wilds**\r\n\r\nRainbow Wilds is equipped with 5 reels that feature berries, horseshoes, four-leaf clovers, hearts, to name a few symbols. Sticky wild symbols appear on the center reel only, while expanding wild symbols can emerge on all reels, except the first one. There’s also a standard wild symbol (represented by a star), which replaces all other symbols and increases your chances of scoring a winning combination.\r\n\r\n**Get up to 20 free spins with multipliers**\r\n\r\nThis Irish-themed video slot offers you a chance of another win after hitting a winning combo. This is how it works:\r\n•\tThe winning combination vanishes from the reels\r\n•\tNew symbols replace the ones that have disappeared\r\n•\tAll other symbols are repositioned\r\n\r\nRepeat this process 4 times on a single spin to activate the free spins mode, which includes massive multipliers (3x or 6x), plus up to 20 free spins. Play Rainbow Wilds at Royal Panda, and land fabulous wins thanks to a host of rewarding symbols and features. \r\n",
+        "url": null,
+        "url_text": null,
+        "slug": "find-lush-pot-of-gold-in-our-rainbow-wilds-slot",
+        "rejected_at": null,
+        "rejected_reason": null,
+        "moderated_at": null,
+        "deleted_at": null,
+        "permalink": "https://casino.eu/casinos/royal-panda/news/find-lush-pot-of-gold-in-our-rainbow-wilds-slot",
+        "formatted_content": "<p>Time to enjoy some Irish fortune in the free spins-packed slot, <strong>Rainbow Wilds</strong>. <strong>Royal Panda</strong> invites you to collect stunning treasures thanks to 1,024 ways to win, and free spins with multipliers. Brace yourself for an enchanted trip to the end of the rainbow, and enjoy vibrant graphics, cascading symbols, plus three different wilds.</p>\n<p><strong>Sticky and expanding wilds</strong></p>\n<p>Rainbow Wilds is equipped with 5 reels that feature berries, horseshoes, four-leaf clovers, hearts, to name a few symbols. Sticky wild symbols appear on the center reel only, while expanding wild symbols can emerge on all reels, except the first one. There’s also a standard wild symbol (represented by a star), which replaces all other symbols and increases your chances of scoring a winning combination.</p>\n<p><strong>Get up to 20 free spins with multipliers</strong></p>\n<p>This Irish-themed video slot offers you a chance of another win after hitting a winning combo. This is how it works:<br />\n•   The winning combination vanishes from the reels<br />\n•   New symbols replace the ones that have disappeared<br />\n•   All other symbols are repositioned</p>\n<p>Repeat this process 4 times on a single spin to activate the free spins mode, which includes massive multipliers (3x or 6x), plus up to 20 free spins. Play Rainbow Wilds at Royal Panda, and land fabulous wins thanks to a host of rewarding symbols and features. </p>",
+        "gallery": [],
+        "images": {
+          "banner": {
+            "original": "https://dy3kvj4xyi95q.cloudfront.net/media/1339/3d8fcf14f6b0bf22c359bd5258520b526ca09857b93fb1c67epimgpsh-fullsize-distr.png",
+            "card": "https://dy3kvj4xyi95q.cloudfront.net/media/1339/conversions/card.jpg",
+            "optimized": "https://dy3kvj4xyi95q.cloudfront.net/media/1339/conversions/optimized.jpg",
+            "featured": "https://dy3kvj4xyi95q.cloudfront.net/media/1339/conversions/featured.jpg"
+          }
+        },
+        "gameTypes": {
+          "data": [
+            {
+              "name": "Slots",
+              "slug": "slots"
+            },
+            {
+              "name": "Videoslots",
+              "slug": "videoslots"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "cursor": {
+      "current": 444,
+      "previous": null,
+      "next": 429,
+      "count": 15,
+      "links": {
+        "next": "https://casino.eu/api/feed?include=casino.recentUpdatesCount&cursor=429&previous=445"
+      }
+    }
+  }
+}
